@@ -10,5 +10,4 @@ gem "pry"
 end
 
 group :test do
-  gem "pry"
 end
